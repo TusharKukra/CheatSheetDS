@@ -1,4 +1,4 @@
-# CheatSheetDS
+# Data Structure Cheat Sheet
 
 
 ## Data Structure Basics

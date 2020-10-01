@@ -193,8 +193,8 @@
 - Worst Case Sort: Merge Sort: O(n^2)
 
 ####Merge Sort Vs. Quicksort
-- Quicksort is likely faster in practice.
-- Merge Sort divides the set into the smallest possible groups immediately then reconstructs the incrementally as it sorts the groupings.
+- [Quicksort](https://beginnersbook.com/2015/02/quicksort-program-in-c/) is likely faster in practice.
+- [Merge Sort](https://www.geeksforgeeks.org/merge-sort/) divides the set into the smallest possible groups immediately then reconstructs the incrementally as it sorts the groupings.
 - Quicksort continually divides the set by the average, until the set is recursively sorted.
 
 ## Basic Types of Algorithms
